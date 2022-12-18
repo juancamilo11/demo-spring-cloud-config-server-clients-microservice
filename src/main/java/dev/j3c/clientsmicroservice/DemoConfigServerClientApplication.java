@@ -1,10 +1,10 @@
-package dev.j3c.configserverclient;
+package dev.j3c.clientsmicroservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 
-@SpringBootApplication
+@SpringBootApplicationgit
 @EnableConfigurationProperties
 public class DemoConfigServerClientApplication {
 

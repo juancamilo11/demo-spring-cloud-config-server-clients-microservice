@@ -1,4 +1,4 @@
-package dev.j3c.configserverclient.config;
+package dev.j3c.clientsmicroservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
